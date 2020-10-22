@@ -1,0 +1,39 @@
+{
+  "name": "eslint-plugin-mapp",
+  "version": "0.0.1",
+  "description": "eslint plugin for mini app (wechat, baidu, bytedance, taro)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeliex/eslint-mapp.git"
+  },
+  "keywords": [
+    "miniapp",
+    "eslint",
+    "wechat",
+    "baidu",
+    "bytedance",
+    "toutiao",
+    "taro"
+  ],
+  "author": "yeliex <yeliex@yeliex.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeliex/eslint-mapp/issues"
+  },
+  "homepage": "https://github.com/yeliex/eslint-mapp#readme",
+  "peerDependencies": {
+    "@babel/eslint-parser": "^7.0.0",
+    "eslint": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.0.0",
+    "eslint": "^7.0.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
